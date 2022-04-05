@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'CowboyBold';
+    src: url('./TEXAT\ BOLD\ PERSONAL\ USE___.otf') format('opentype');
+}
+
+.hello {
+    font-family: 'CowboyBold',sans-serif;
+    color: red;
+    background: url('./icon.png');
+}
